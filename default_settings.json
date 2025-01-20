@@ -1,0 +1,9 @@
+{
+    "binds": {
+        "snap": "f1",
+        "event1": "f2",
+        "event2": "f3"
+    },
+    "port": "13579",
+    "save_to_clipboard": true 
+}
